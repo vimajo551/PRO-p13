@@ -148,7 +148,7 @@ function pinkBalloon() {
   
   //arrowGroup.addGroup(arrow);
   //arrow.add(arrowGroup);
-  arrowGroup.add();
-  //arrowGroup.add(arrow);
+  //arrowGroup.add();
+  arrowGroup.add(arrow);
    
 }
